@@ -1,0 +1,6 @@
+framework module Pods_PentaBeauty {
+  umbrella header "Pods-PentaBeauty-umbrella.h"
+
+  export *
+  module * { export * }
+}
